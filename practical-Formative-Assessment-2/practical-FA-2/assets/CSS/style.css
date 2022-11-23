@@ -1,0 +1,62 @@
+.logo button{
+    float:right;
+    background-color:hsl(198, 28%, 93%);
+    padding: 10px;
+    border:none;
+    border-radius: 7px; 
+
+}
+body{
+    position:absolute;
+    top:20px;
+    right:100px;
+    left:100px;
+
+}
+.keyboard img{
+    float:right;
+    border-radius: 5px;
+
+}
+.keyboard{
+    height:200px;
+}
+.flex{
+    display: flex;
+}
+.flex p{
+    margin-left: 30px;
+}
+.flex button{
+    border: none;
+    border-radius: 5px;
+    background-color: orange;
+}
+.img-1{
+    
+    border-radius: 8px;
+}
+.img-2{
+    margin-left: 10px; 
+    border-radius: 8px;
+}
+.container{
+    display: flex;
+}
+.container div{
+    padding:10px;
+}
+.type{
+    width:400px;
+}
+.footer{
+    display:flex;
+}
+.footer img{
+    padding:10px;
+    background-color: orange;
+}
+
+
+
+  
